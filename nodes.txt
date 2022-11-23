@@ -1,3 +1,0 @@
-geo.iproyal.com:22323:1801377231:15151616_session-30ak2g1w_lifetime-10m
-geo.iproyal.com:22325:1801377231:15151616_session-30ak2g1w_lifetime-10m
-1801377231:15151616_country-am_session-wontwywx_lifetime-6m@geo.iproyal.com:42324
