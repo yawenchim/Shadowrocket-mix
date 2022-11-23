@@ -1,7 +1,0 @@
-Proxy:
-- name: "socks"
-  type: socks5
-  server: geo.iproyal.com
-  port: 42324
-  username: 1801377231
-  password: 15151616_country-am_session-wontwywx_lifetime-6m
