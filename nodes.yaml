@@ -6,7 +6,7 @@ proxies:
     port: 42324
     username: 1801377231
     password: 15151616
-    #tls: true
+    tls: true
     #skip-cert-verify: true
     #udp: true
 
