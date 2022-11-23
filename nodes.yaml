@@ -1,11 +1,13 @@
 proxies:
   # socks5
-  - name: "socks"
+  - name: "socks1"
     type: socks5
-    server: 1801377231:15151616_country-am_session-wontwywx_lifetime-6m@geo.iproyal.com
+    server: geo.iproyal.com
     port: 42324
-    # username: username
-    # password: password
+    username: 1801377231
+    password: 15151616
     #tls: true
     #skip-cert-verify: true
     #udp: true
+
+ 
