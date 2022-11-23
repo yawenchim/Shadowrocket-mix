@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-{"type":"sock5","name":"亚美尼亚1","server":"geo.iproyal.com","port":42324,"username":"1801377231","password":"15151616_country-am_session-wontwywx_lifetime-6m","udp":false}
+{"type":"sock5","name":"亚美尼亚1","server":"geo.iproyal.com","port":42324,"username":"1801377231","password":"15151616_country-am_session-wontwywx_lifetime-6m"}
 - name: ""
   type: socks5
   server: geo.iproyal.com
