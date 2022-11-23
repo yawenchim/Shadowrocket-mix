@@ -5,8 +5,8 @@ proxies:
     server: geo.iproyal.com
     port: 42324
     username: 1801377231
-    password: 15151616
-    tls: true
+    password: 15151616_session-30ak2g1w_lifetime-10m
+    #tls: true
     #skip-cert-verify: true
     #udp: true
 
